@@ -1,4 +1,4 @@
-# How to ru Project
+# How to run Project
 open index.php file
 
 # Dayflow – Human Resource Management System  
